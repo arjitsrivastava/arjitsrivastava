@@ -3,12 +3,25 @@
 I'm Arjit, an Engineering Leader at Delivery Hero based in Berlin. 
  
 My technical background is complemented by a keen interest in strategic leadership. I've navigated my career through diverse technologies, currently focusing on Kubernetes, Incident Management, and Observability. Outside of work, you can find me gaming, reading, or writing. 
-  
-### 💼 Where I am currently working at/as
+
+### 📫 Like to meet me?
+
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to add an agenda.
+
+<a href="https://calendly.com/arjits/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
+👇 Run the following on your terminal to connect with me.
+
+```bash
+npx arjit
+```
+**👆 This command line tool can be found at [npx arjit](https://github.com/arjitsrivastava/arjit-npx-card)**
+ 
+### 💼 Current role
 
 - [Delivery Hero](https://www.deliveryhero.com/about/) - Engineering Manager: Restaurant Cart & Checkout
 
-### 💻  Where I was working before at/as
+### 💻  Previous roles
 
 - [Zendrive](https://www.zendrive.com/) - Engineering Manager: Core SDK Team
 - [Sprinklr](https://www.sprinklr.com/) - Senior Backend Engineer
