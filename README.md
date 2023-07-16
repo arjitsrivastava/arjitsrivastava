@@ -4,7 +4,7 @@ I'm Arjit, an Engineering Leader at Delivery Hero based in Berlin.
  
 My technical background is complemented by a keen interest in strategic leadership. I've navigated my career through diverse technologies, currently focusing on Kubernetes, Incident Management, and Observability. Outside of work, you can find me gaming, reading, or writing. 
 
-### 📫 Like to meet me?
+### 📫 Want to catch-up?
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to add an agenda.
 
