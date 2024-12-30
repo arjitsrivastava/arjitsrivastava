@@ -1,6 +1,6 @@
 # Hi, I'm Arjit! 👋
 
-- 🌱 I’m currently interested on how how to organize teams for high performance
+- 🌱 I’m currently interested in how how to organize a group of teams for high performance
 - 💬 Ask me about leadership, managing up, down, and across, kubernetes, incident management, observability, working in multi-cultural environments...
 - ⚡ When I’m not solving engineering challenges, you’ll likely find me gaming, reading, or writing ✍️
 
